@@ -1,5 +1,5 @@
 import React, {useEffect, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import './LeagueId.css'
 import image from '../img/female-team.jpg';
 import img from '../img/male-team.jpg';
